@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![Hackathon](https://img.shields.io/badge/X-Food-name-orange.svg)](https://johanlib.github.io/)
+  [![X-Food](https://img.shields.io/badge/XFood-name-orange.svg)](https://johanlib.github.io/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/johanLib/johanLib.github.io/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/johanLib/johanLib.github.io/pulls)
