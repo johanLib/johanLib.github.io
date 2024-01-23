@@ -47,22 +47,18 @@ These instructions will get you a copy of the project up and running on your loc
 To savor the exquisite flavors of X-Food, follow these swift steps to install and relish our Vite-powered app:
 ```
 git clone git@github.com:johanLib/johanLib.github.io.git
-
 ```
 
 ```
 cd X-Food
-
 ```
 
 ```
 npm install
-
 ```
 
 ```
 npm run dev
-
 ```
 Open in Your Browser:
 Visit http://localhost:<"port"> to experience the delectable world of X-Food.
