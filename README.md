@@ -23,6 +23,7 @@
 </p>
 
 ## 📝 Table of Contents
+- [External Links](#links)
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
@@ -30,6 +31,9 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
+## 🧐 Links <a name = "links"></a>
+
+Hey curious minds! 🚀 Dive into the heart of innovation with my app! 🌐✨ Whether you prefer the speed of [Netlify](https://x-food.netlify.app), the reliability of [Vercel](https://x-food-navy.vercel.app/), or the classic touch of [GitHub Pages](https://johanlib.github.io/), you're in for a tech-tastic ride. Explore the digital landscape where creativity meets functionality. Click away and unravel the possibilities! 🖱️💻
 ## 🧐 About <a name = "about"></a>
 In the realm of gastronomic delights, our food web application stands as a haven, catering to the diverse palates of our esteemed clientele. Within this culinary sanctuary, patrons are not merely served food but are treated to a gastronomic symphony featuring an array of delectable offerings. A dedicated section for customer ratings, providing a platform for feedback that shapes and refines our services.
 
@@ -87,7 +91,7 @@ Switch to Dark Mode:
 Enhance your visual experience by toggling between light and dark modes. Tailor your ambiance to suit your mood while navigating the culinary wonders of X-Food.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [JavaScript](https://javascript.com/) - Server Framework
+- [JavaScript](https://javascript.com/) - Programming Language
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [ViteJs](https://vitejs.org/) - development server
