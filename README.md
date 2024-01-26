@@ -31,7 +31,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 Links <a name = "links"></a>
+## 🥀 Links <a name = "links"></a>
 
 Hey curious minds! 🚀 Dive into the heart of innovation with my app! 🌐✨ Whether you prefer the speed of [Netlify](https://x-food.netlify.app), the reliability of [Vercel](https://x-food-navy.vercel.app/), or the classic touch of [GitHub Pages](https://johanlib.github.io/), you're in for a tech-tastic ride. Explore the digital landscape where creativity meets functionality. Click away and unravel the possibilities! 🖱️💻
 ## 🧐 About <a name = "about"></a>
